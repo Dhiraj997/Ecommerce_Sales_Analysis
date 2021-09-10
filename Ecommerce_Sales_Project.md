@@ -278,7 +278,7 @@ sns.jointplot(x='Time on Website',y='Yearly Amount Spent',data=customers)
 
 
     
-![png](output_9_1.png)
+![](Ecommerce_Sales_Project/output_9_1.png)
     
 
 
@@ -298,7 +298,7 @@ sns.jointplot(x='Time on App',y='Yearly Amount Spent',data=customers)
 
 
     
-![png](output_11_1.png)
+![](Ecommerce_Sales_Project/output_11_1.png)
     
 
 
@@ -318,7 +318,7 @@ sns.jointplot(x='Time on App',y='Length of Membership',kind='hex',data=customers
 
 
     
-![png](output_13_1.png)
+![](Ecommerce_Sales_Project/output_13_1.png)
     
 
 
@@ -338,7 +338,7 @@ sns.pairplot(customers)
 
 
     
-![png](output_15_1.png)
+![](Ecommerce_Sales_Project/output_15_1.png)
     
 
 
@@ -365,7 +365,7 @@ sns.lmplot(x='Length of Membership',y='Yearly Amount Spent',data=customers)
 
 
     
-![png](output_19_1.png)
+![](Ecommerce_Sales_Project/output_19_1.png)
     
 
 
@@ -464,7 +464,7 @@ plt.ylabel('Predicted Y')
 
 
     
-![png](output_36_1.png)
+![](Ecommerce_Sales_Project/output_36_1.png)
     
 
 
@@ -507,7 +507,7 @@ sns.distplot((y_test-predictions),bins=50);
 
 
     
-![png](output_40_1.png)
+![](Ecommerce_Sales_Project/output_40_1.png)
     
 
 
