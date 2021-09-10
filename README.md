@@ -3,6 +3,4 @@ Customers come in to the store, have sessions/meetings with a personal stylist, 
 app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app experience 
 or their website.
 
-2. Ecommerce Sales Project python file contains analysis of data, fitting data to Linear Regression model and some exciting insights.
-
-3. ES Graph folder includes graph drawn from the analysis.
+2. Ecommerce Sales Project Python and Jupyter file contains analysis of data, fitting data to Linear Regression model and some exciting insights.
